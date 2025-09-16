@@ -15,20 +15,20 @@ class SiteManager {
 
     loadData() {
         const defaultData = {
-            siteName: 'Your Name',
-            bioText: 'Welcome to my personal space',
-            profileImage: 'https://via.placeholder.com/150',
+            siteName: 'Ari The Puppy',
+            bioText: 'Welcome to my bio',
+            profileImage: 'https://i.imgur.com/C56TnEk.png',
             socialLinks: [
-                { name: 'GitHub', url: 'https://github.com/username', icon: '🐙' },
-                { name: 'Twitter', url: 'https://twitter.com/username', icon: '🐦' },
-                { name: 'TikTok', url: 'https://tiktok.com/@username', icon: '🎵' },
-                { name: 'Instagram', url: 'https://instagram.com/username', icon: '📷' }
+                { name: 'GitHub', url: 'https://github.com/arionyxx', icon: '📝' },
+                { name: 'Twitter', url: 'https://twitter.com/@Arionyx', icon: '🐦' },
+                { name: 'TikTok', url: 'https://tiktok.com/@arifemboyo', icon: '🎵' },
+                { name: 'Instagram', url: 'https://instagram.com/Arionyx', icon: '📷' }
             ],
             mediaItems: [
-                { type: 'youtube', url: 'https://www.youtube.com/embed/dQw4w9WgXcQ', title: 'Featured Video' }
+                { type: 'youtube', url: 'https://www.youtube.com/embed/oEsnmKspGa4', title: 'CSGO Legacy Astolfo' }
             ],
             customContent: [
-                { type: 'text', content: 'Add your custom content here!' }
+                { type: 'text', content: '❤️Hi how are you Cutie❤️' }
             ]
         };
 
